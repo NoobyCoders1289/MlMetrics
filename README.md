@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MlMetrics
-=======
 # Ml Algorithms Metrics Computing
 It takes the values of ```x_train,x_test,y_train,y_test``` and then Evaluates and Returns the Pandas DataFrame containing Algorithm Name, Accuracy_Score, Precision_Score, Confusion_Matrix of Popular Ml Algorithms. 
 
