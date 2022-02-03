@@ -12,4 +12,3 @@ After installation when you try to train a model, pass the parameters ```(x_trai
 
 This repository is licensed under the MIT license.
 See LICENSE for details.
->>>>>>> f702d54 (added files)
